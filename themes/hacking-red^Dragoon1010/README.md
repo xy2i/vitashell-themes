@@ -1,4 +1,4 @@
-# Hacking-blue by Dragoon1010
+# Hacking-red by Dragoon1010
 
 For English version, juste take "wallpaper-EN.PNG" and rename in "wallpaper.PNG"
 
