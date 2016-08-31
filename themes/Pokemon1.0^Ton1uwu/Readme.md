@@ -1,1 +1,0 @@
-Tome prestadas algunas cosas de otros temas, como la bateria(BlueShell) y el context (Why2k), lo unico que hice fue editarlos para que la tematica fuese pokemon, creditos a sus respectivos autores. ftp.png original.
