@@ -7,4 +7,3 @@ For English version, juste take "bg_XXX-EN.PNG" and rename in "bg_XXX.PNG"
 ![preview3.png](https://github.com/Dragoon1010/vitashell-themes/blob/master/themes/hacking-blue%5EDragoon1010/preview3.jpg)
 ![preview4.png](https://github.com/Dragoon1010/vitashell-themes/blob/master/themes/hacking-blue%5EDragoon1010/preview4.jpg)
 ![preview5.png](https://github.com/Dragoon1010/vitashell-themes/blob/master/themes/hacking-blue%5EDragoon1010/preview5.jpg)
-![preview6.png](https://github.com/Dragoon1010/vitashell-themes/blob/master/themes/hacking-blue%5EDragoon1010/preview6.jpg)
