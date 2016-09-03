@@ -13,3 +13,5 @@ For themes, it is also appreciated to provide a preview as well (include `/theme
 For end users: for translations, put the desired translation(s) in `ux0:VitaShell/language/`. For themes, put the desired theme (the folder itself) in `ux0:VitaShell/theme/`. You can have multiple themes at once; just put all the themes you wish to use and swap with VitaShell.
 
 [You can download VitaShell here.](https://github.com/TheOfficialFloW/VitaShell/)
+
+[For Vita themes, click here.](https://repod.github.io/vitathemes/)
