@@ -1,4 +1,4 @@
-# Hacking-blue by Dragoon1010 (for VitaShell v0.9)
+# Hacking-blue by Dragoon1010 (for VitaShell v0.91)
 
 For English version, juste take "bg_XXX-EN.PNG" and rename in "bg_XXX.PNG"
 
