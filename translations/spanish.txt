@@ -15,7 +15,7 @@ DELETING                             = "Eliminando..."
 INSTALLING                           = "Instalando..."
 DOWNLOADING                          = "Descargando..."
 EXTRACTING                           = "Extrayendo..."
-HASHING				     = "Hashing..."
+Hashing                              = "Hashing..."
 
 # Hex editor strings - Carácteres del editor hexadecimal
 OFFSET                               = "Offset"
