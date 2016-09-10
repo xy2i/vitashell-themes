@@ -1,18 +1,22 @@
 # VitaShell colors file
-
+# BlueShell
 # Colors
-GENERAL_COLOR                = 0xFFE6E6E6    # Nearwhite
-TITLE_COLOR                  = 0xFFFF7F00    # Azure
-PATH_COLOR                   = 0xFFE6E6E6    # Nearwhite
-DATE_TIME_COLOR              = 0xFFFFFFFF    # White
-FOCUS_COLOR                  = 0xFFE39f00    # Cyan
-FOLDER_COLOR                 = 0xFFB5AC98    # Light-Greyblue
-IMAGE_COLOR                  = 0xFF5029F5    # Rose
-ARCHIVE_COLOR                = 0xFF1E57D7    # Darkorange
-SCROLL_BAR_COLOR             = 0xFFFF7F00    # Azure
-SCROLL_BAR_BG_COLOR          = 0x00000000    # transparent
-MARKED_COLOR                 = 0x37FFFFFF    # White with alpha
-PROGRESS_BAR_COLOR           = 0xFFFF7F00    # Azure
-PROGRESS_BAR_BG_COLOR        = 0xFF7F7F7F    # Gray
-HEX_OFFSET_COLOR             = 0xFFB5AC98    # Light-Greyblue
-HEX_NIBBLE_COLOR             = 0xFF0000FF    # Red
+BACKGROUND_COLOR             = 0x00000000
+GENERAL_COLOR                = 0xFFE6E6E6
+TITLE_COLOR                  = 0xFFFF7F00
+PATH_COLOR                   = 0xFFE6E6E6
+DATE_TIME_COLOR              = 0xFFFFFFFF
+FOCUS_COLOR                  = 0xFFE39f00
+FOLDER_COLOR                 = 0xFFB5AC98
+IMAGE_COLOR                  = 0xFF5029F5
+ARCHIVE_COLOR                = 0xFF1E57D7
+SCROLL_BAR_COLOR             = 0xFFFF7F00
+SCROLL_BAR_BG_COLOR          = 0x00000000
+MARKED_COLOR                 = 0x37FFFFFF
+INVISIBLE_COLOR              = 0xFF3F3F3F
+DIALOG_BG_COLOR              = 0x00000000
+CONTEXT_MENU_COLOR           = 0x00000000
+PROGRESS_BAR_COLOR           = 0xFFFF7F00
+PROGRESS_BAR_BG_COLOR        = 0xFF7F7F7F
+HEX_OFFSET_COLOR             = 0xFFB5AC98
+HEX_NIBBLE_COLOR             = 0xFF0000FF
