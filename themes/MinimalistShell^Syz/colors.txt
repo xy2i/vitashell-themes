@@ -1,22 +1,47 @@
 # VitaShell colors file
 
-# Colors
-BACKGROUND_COLOR		= 0xFF000000	# Black
-GENERAL_COLOR			= 0xFFBFBFBF	# Beckers Klippa 508
-TITLE_COLOR				= 0xFF696969	# Dim Gray
-PATH_COLOR				= 0xFFEEEEEE	# Revell 32164 
-DATE_TIME_COLOR			= 0xFF696969	# Dim Gray
-FOCUS_COLOR				= 0xFFFFFFFF	# White
-FOLDER_COLOR			= 0xFF696969	# Dim Gray
-IMAGE_COLOR				= 0xFFA88A5D	# Air Force Blue
-ARCHIVE_COLOR			= 0xFFCFA192	# Ceil
-SCROLL_BAR_COLOR		= 0xFF404040	# PMS 446
-SCROLL_BAR_BG_COLOR		= 0xFF7F7F7F	# Gray
-MARKED_COLOR			= 0xFFAC928C	# Gray-blue
-INVISIBLE_COLOR	 		= 0xFF3F3F3F	# Darkgray #1
-DIALOG_BG_COLOR			= 0xFF2F2F2F	# Darkgray #2
-CONTEXT_MENU_COLOR		= 0xFA2F2F2F	# Darkgray #2 with alpha
-PROGRESS_BAR_COLOR		= 0xFFCFA359	# Disqus
-PROGRESS_BAR_BG_COLOR	= 0xFF7F7F7F	# Gray
-HEX_OFFSET_COLOR		= 0xFF908070	# Slategray
-HEX_NIBBLE_COLOR		= 0xFFB68260	# Glaucous
+# Shell colors
+BACKGROUND_COLOR             = 0xFF000000    # Black
+TITLE_COLOR					 = 0xFFFFFFFF	 # White
+PATH_COLOR                   = 0xFFFFFFFF	 # White
+DATE_TIME_COLOR              = 0xFFFFFFFF	 # White
+
+# File browser colors
+FOCUS_COLOR                  = 0xFFAC928C	 # Gray-blue
+FILE_COLOR                   = 0x8FEC6E9F    # Purple
+SFO_COLOR                    = 0xFF71DBAD    # Green #2
+TXT_COLOR                    = 0x8F88A523	 # Green #1
+FOLDER_COLOR                 = 0xFFBFBFBF    # Beckers Klippa 508
+IMAGE_COLOR                  = 0x8FE7E455    # Blue #2
+ARCHIVE_COLOR                = 0x8FB69E2D	 # Blue #1
+SCROLL_BAR_COLOR             = 0xFF404040	 # PMS 446
+SCROLL_BAR_BG_COLOR          = 0xFF7F7F7F	 # Gray
+MARKED_COLOR                 = 0x4FAC928C	 # Gray-blue with alpha
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xFFFFFFFF    # White
+CONTEXT_MENU_FOCUS_COLOR     = 0xFFAC928C	 # Gray-blue
+CONTEXT_MENU_COLOR           = 0xFA2F2F2F    # Darkgray #2 with alpha
+CONTEXT_MENU_MORE_COLOR      = 0xFC282828    # Darkgray #3 with alpha
+INVISIBLE_COLOR              = 0xFF3F3F3F    # Darkgray #1
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFFFFFFFF    # White
+DIALOG_BG_COLOR              = 0xFF2F2F2F    # Darkgray #2
+PROGRESS_BAR_COLOR           = 0xFFCFA359	 # Disqus
+PROGRESS_BAR_BG_COLOR        = 0xFF7F7F7F    # Gray
+
+# Hex editor colors
+HEX_COLOR                    = 0xFFBFBFBF	 # Beckers Klippa 508
+HEX_OFFSET_COLOR             = 0xFF908070	 # Slategray
+HEX_NIBBLE_COLOR             = 0xFFB68260	 # Glaucous
+
+# Text editor colors
+TEXT_COLOR                   = 0xFFBFBFBF	 # Beckers Klippa 508
+TEXT_FOCUS_COLOR             = 0xFFFFFFFF    # wite
+TEXT_LINE_NUMBER_COLOR       = 0xFF4F4F4F    # Darkgray #3
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFFAC928C	 # Gray-blue
+TEXT_HIGHLIGHT_COLOR         = 0xFFAC928C	 # Gray-blue
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0xFFFFFFFF    # White
