@@ -30,8 +30,6 @@ INVISIBLE_COLOR	 		= 0xFFFFFFFF
 
 # Dialog colors
 
-# Dialog colors
-
 DIALOG_COLOR                 	= 0xFFFFFFFF
 DIALOG_BG_COLOR			= 0xFF2F2F2F
 PROGRESS_BAR_COLOR		= 0xFF4488BB
@@ -54,3 +52,14 @@ TEXT_HIGHLIGHT_COLOR         = 0xFF80F5FF
 # Photo viewer colors
 
 PHOTO_ZOOM_COLOR             = 0xFF4488BB
+
+# Audio player colors
+
+AUDIO_INFO_ASSIGN            = 0xFF4488BB
+AUDIO_INFO                   = 0xFFDDDDDD
+AUDIO_SPEED                  = 0xFFDDDDDD
+AUDIO_TIME_CURRENT           = 0xFF4488BB
+AUDIO_TIME_SLASH             = 0xFFFFFFFF
+AUDIO_TIME_TOTAL             = 0xFFDDDDDD
+AUDIO_TIME_BAR               = 0xFF4488BB
+AUDIO_TIME_BAR_BG            = 0xFF7F7F7F
