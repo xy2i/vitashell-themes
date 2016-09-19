@@ -8,7 +8,7 @@ For themes, it is also appreciated to provide a preview as well (include `/theme
 # (theme) by (author) (rev)
 
 ## Download Link:
-* [**Your_File_Name.rar**](Your_Mega_Dowload_Link)
+* [**Your_File_Name.rar**](https://mega.nz/Your_Link)
 
 ## Preview :
 
