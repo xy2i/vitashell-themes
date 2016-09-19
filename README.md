@@ -5,7 +5,12 @@ Upload translations in `/translations`. Upload themes in `/theme/(Theme-Name^Upl
 
 For themes, it is also appreciated to provide a preview as well (include `/theme/(Theme-Name^Uploader)/preview.jpg` and a README.MD with a short description and displaying the preview.png. [Example with CrysisShell.](https://github.com/xy2iii/vitashell-themes/tree/master/themes/CrysisShell-memomo) Sample README.md:
 ```
-# (theme) by (author)
+# (theme) by (author) (rev)
+
+## Download Link:
+* [**Your_File_Name.rar**](Your_Mega_Dowload_Link)
+
+## Preview :
 
 ![Preview](https://github.com/xy2iii/vitashell-themes/tree/ma ster/themes/theme-author/preview.jpg)
 ```
