@@ -21,7 +21,6 @@ For themes, it is also appreciated to provide a preview as well (include `/theme
 [//]: # "accordingly: preview1.jpg, preview2.jpg, etc."
 ```
 ## Downloading themes and translations
-[//]: # "Teqst"
 To download the entirety of the listed themes:
 
 * download the repo as ZIP: click on 'Clone or download' and click 'Download ZIP.' This is the easier option for newbie users, but is a one-time download not kept up to date.
