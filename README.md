@@ -21,14 +21,14 @@ For themes, it is also appreciated to provide a preview as well (include `/theme
 [//]: # "accordingly: preview1.jpg, preview2.jpg, etc."
 ```
 ## Downloading themes and translations
-To download the entirety of the listed themes:
+To download the entirety or part of this repository:
 
 * download the repo as ZIP: click on 'Clone or download' and click 'Download ZIP.' This is the easier option for newbie users, but is a one-time download not kept up to date.
 * [clone the repository](https://help.github.com/articles/cloning-a-repository/) and have it kept up to date. To "update", simply `cd` to the repository folder and `git pull`.
 
 ## Installation process
 
-For translations, put the desired translation(s) in `ux0:VitaShell/language/`. For themes, put the desired theme (the folder itself) in `ux0:VitaShell/theme/`. You can have multiple themes at once; just put all the themes you wish to use and swap with VitaShell.
+For translations, put the desired translation(s) in `ux0:VitaShell/language/`. For themes, put the desired theme (the folder itself) in `ux0:VitaShell/theme/`. You can have multiple themes at once; just put all the themes you wish to use in and swap with VitaShell.
 
 [You can download VitaShell here.](https://github.com/TheOfficialFloW/VitaShell/)
 
