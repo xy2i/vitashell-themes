@@ -1,5 +1,5 @@
 # vitashell-themes
-VitaShell themes &amp; translations repository.
+VitaShell customisation & customisation tools repository.
 
 ## Contributer instructions
 
@@ -17,7 +17,7 @@ For themes, it is also appreciated to provide a preview as well (include `/theme
 
 ## Preview:
 ![Preview](https://github.com/xy2iii/vitashell-themes/tree/master/themes/theme-author/preview.jpg) 
-[//]: # "If you wish to include multiple previews, please number them "
+[//]: # "If you wish to include multiple previews, please number them"
 [//]: # "accordingly: preview1.jpg, preview2.jpg, etc."
 ```
 ## Downloading themes and translations
