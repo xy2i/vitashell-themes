@@ -1,12 +1,12 @@
 # VitaShell language file
-# ver1.2対応日本語言語ファイル 12a12 by Umineko19930417
+# VitaShell1.31対応版日本語言語ファイル 131a20 作者@Umineko19930417
 
 # General strings
 # 一般的な文字列
 ERROR				= "エラーコード:0x%08X"
 OK				= "OK"
-YES				= "Yes"
-NO				= "No"
+YES				= "はい"
+NO				= "いいえ"
 CANCEL				= "キャンセル"
 FOLDER				= "フォルダ"
 
@@ -15,11 +15,12 @@ FOLDER				= "フォルダ"
 MOVING				= "移動中..."
 COPYING				= "コピー中..."
 DELETING			= "削除中..."
-EXPORTING			= "エクスポート中..."
+EXPORTING			= "出力中..."
 INSTALLING			= "インストール中..."
 DOWNLOADING			= "ダウンロード中..."
 EXTRACTING			= "吸い出し中..."
-HASHING				= "ハッシュ中..."
+COMPRESSING			= "圧縮中..."
+HASHING				= "ハッシュ値計算中..."
 
 # Audio player strings
 # オーディオプレイヤーの文字列
@@ -52,9 +53,11 @@ PASTE				= "貼り付け"
 DELETE				= "削除"
 RENAME				= "リネーム"
 NEW_FOLDER			= "新しいフォルダ"
+COMPRESS			= "圧縮"
 INSTALL_ALL			= "全てをインストール"
+INSTALL_FOLDER		= "フォルダをインストール"
 CALCULATE_SHA1			= "SHA1の表示"
-EXPORT_MEDIA			= "メディアをエクスポート"
+EXPORT_MEDIA			= "メディアを出力"
 SEARCH				= "検索"
 
 # File browser strings
@@ -68,17 +71,18 @@ COPIED_FILES_FOLDERS		= "%d個のファイル/フォルダをコピーしまし�
 DELETE_FILE_QUESTION		= "このファイルを削除してもよろしいですか?"
 DELETE_FOLDER_QUESTION		= "このフォルダを削除してもよろしいですか?"
 DELETE_FILES_FOLDERS_QUESTION	= "これらのファイル、フォルダを削除してもよろしいですか?"
-EXPORT_FILE_QUESTION		= "このファイルをメディアにエクスポートしてもよろしいですか?"
-EXPORT_FOLDER_QUESTION		= "このフォルダをメディアにエクスポートしてもよろしいですか?"
-EXPORT_FILES_FOLDERS_QUESTION	= "これらのファイル、フォルダをメディアにエクスポートしてもよろしいですか?"
-EXPORT_NO_MEDIA			= "エクスポートが出来るメディアがありません"
-EXPORT_SONGS_INFO		= "%d個の歌をエクスポートしました"
-EXPORT_PICTURES_INFO		= "%d個の写真をエクスポートしました"
-EXPORT_SONGS_PICTURES_INFO	= "%d個の歌と%d個の写真をエクスポートしました"
+EXPORT_FILE_QUESTION		= "このファイルをメディアに出力してもよろしいですか?"
+EXPORT_FOLDER_QUESTION		= "このフォルダをメディアに出力してもよろしいですか?"
+EXPORT_FILES_FOLDERS_QUESTION	= "これらのファイル、フォルダをメディアに出力してもよろしいですか?"
+EXPORT_NO_MEDIA			= "出力が出来るメディアがありません"
+EXPORT_SONGS_INFO		= "%d個の歌を出力しました"
+EXPORT_PICTURES_INFO		= "%d個の写真を出力しました"
+EXPORT_SONGS_PICTURES_INFO	= "%d個の歌と%d個の写真を出力しました"
 INSTALL_ALL_QUESTION		= "このフォルダの中にある、全てのパッケージをインストールしますか?"
+INSTALL_FOLDER_QUESTION		= "このフォルダをインストールしますか?\警告:\インストール後にフォルダを削除します!"
 INSTALL_QUESTION		= "このパッケージをインストールしますか?"
-INSTALL_WARNING			= "このパッケージは拡張パーティションへのアクセス権や個人情報へのアクセス権を要求します\信頼できるソース以外から入手した場合、インストールは自己判断で行って下さい\\インストールを続行してもよろしいですか?"
-HASH_FILE_QUESTION		= "SHA1ハッシュの計算には時間がかかる場合があります\続けますか?"
+INSTALL_WARNING			= "このパッケージは拡張パーティションへのアクセス権や個人情報へのアクセス権を要求します\信頼できるソース以外から入手した場合のインストールは自己判断で行って下さい\\インストールを続行してもよろしいですか?"
+HASH_FILE_QUESTION		= "SHA1ハッシュ値の計算には時間がかかる場合があります\続けますか?"
 
 # Others
 # 他
