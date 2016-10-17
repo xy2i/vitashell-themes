@@ -1,4 +1,4 @@
-# VitaShell language file
+# VitaShell v1.1 language file - (Português - Brasil)
 
 # General strings
 ERROR                                = "Erro 0x%08X."
@@ -16,6 +16,13 @@ INSTALLING                           = "Instalando..."
 DOWNLOADING                          = "Baixando..."
 EXTRACTING                           = "Extraindo..."
 HASHING                              = "Hashing..."
+
+# Audio player strings
+TITLE                                = "Título"
+ALBUM                                = "Álbum"
+ARTIST                               = "Artista"
+GENRE                                = "Gênero"
+YEAR                                 = "Ano"
 
 # Hex editor strings
 OFFSET                               = "Offset"
@@ -56,8 +63,10 @@ INSTALL_WARNING                      = "Este pacote solicita permissões estendi
 HASH_FILE_QUESTION                   = "O SHA1 hashing pode levar um longo tempo. Deseja continuar?"
 
 # Others
+PLEASE_WAIT                          = "Por favor, aguarde..."
 SAVE_MODIFICATIONS                   = "Você deseja salvar as modificações?"
-WIFI_ERROR                           = "Você deve usar Wi-Fi para fazer isso."
+NO_SPACE_ERROR                       = "Não há espaço livre suficiente na memória\cartão.\É necessário pelo menos mais %s de espaço livre."
+WIFI_ERROR                           = "Você deve usar o Wi-Fi para fazer isso."
 FTP_SERVER                           = "Servidor FTP está diponível em\ftp://%s:%i\\Pressione 'OK' para mantê-lo em segundo plano.\Pressione 'Cancelar' para desconectar."
 SYS_INFO                             = "Software de sistema: %s\Modelo: 0x%08X\Endereço MAC: %s\Endereço IP: %s\Cartão de memória: %s/%s"
 UPDATE_QUESTION                      = "VitaShell %s está disponível.\\Deseja atualizar o aplicativo?""
