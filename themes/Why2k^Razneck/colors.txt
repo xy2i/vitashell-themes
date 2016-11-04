@@ -1,22 +1,47 @@
 # VitaShell colors file
-
-# Colors
+# Why2k
+# Shell colors
 BACKGROUND_COLOR             = 0x00000000
-GENERAL_COLOR                = 0xFF000000
 TITLE_COLOR                  = 0xFF000000
 PATH_COLOR                   = 0xFF000000
 DATE_TIME_COLOR              = 0xFFFFFFFF
+
+# File browser colors
 FOCUS_COLOR                  = 0xCCFF0000
+FILE_COLOR                   = 0xFF000000
+SFO_COLOR                    = 0xFF000000
+TXT_COLOR                    = 0xFF000000
 FOLDER_COLOR                 = 0xFF000000
 IMAGE_COLOR                  = 0xFF000000
-ARCHIVE_COLOR                = 0xFF000068
+ARCHIVE_COLOR                = 0xFF000000
 SCROLL_BAR_COLOR             = 0x00000000
 SCROLL_BAR_BG_COLOR          = 0x00000000
-MARKED_COLOR                 = 0xAA6A240A
-INVISIBLE_COLOR              = 0x2F000000
-DIALOG_BG_COLOR              = 0x00000000
+MARKED_COLOR                 = 0x4F6A240A
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xFF000000
+CONTEXT_MENU_FOCUS_COLOR     = 0xCCFF0000
 CONTEXT_MENU_COLOR           = 0x00000000
+CONTEXT_MENU_MORE_COLOR      = 0x00000000
+INVISIBLE_COLOR              = 0x2F000000
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFF000000
+DIALOG_BG_COLOR              = 0x00000000
 PROGRESS_BAR_COLOR           = 0xFF6A240A
 PROGRESS_BAR_BG_COLOR        = 0xFFB3B7B7
-HEX_OFFSET_COLOR             = 0xFF000000
+
+# Hex editor colors
+HEX_COLOR                    = 0xFF000000
+HEX_OFFSET_COLOR             = 0xFF303030
 HEX_NIBBLE_COLOR             = 0xFF0000FF
+
+# Text editor colors
+TEXT_COLOR                   = 0xFF000000
+TEXT_FOCUS_COLOR             = 0xCCFF0000
+TEXT_LINE_NUMBER_COLOR       = 0xFF4F4F4F
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFF7F7F7F
+TEXT_HIGHLIGHT_COLOR         = 0x4F6A240A
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0xFFFFFFFF

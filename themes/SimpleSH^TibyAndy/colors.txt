@@ -1,0 +1,58 @@
+# VitaShell colors file
+# Simplesh_TibyAndy
+# Shell colors
+BACKGROUND_COLOR            =  0x00000000
+TITLE_COLOR                 =  0x88ffffff
+PATH_COLOR                  =  0xffffffff
+DATE_TIME_COLOR             =  0xa8ffffff
+
+# File browser colors
+FOCUS_COLOR                  = 0xff00ddff
+FILE_COLOR                   = 0x88ffeecc
+SFO_COLOR                    = 0xccee77cc
+TXT_COLOR                    = 0x88ffeecc
+FOLDER_COLOR                 = 0xaaeeeecc
+IMAGE_COLOR                  = 0x88ffeecc
+AUDIO_COLOR                  = 0x88ffeecc
+ARCHIVE_COLOR                = 0xcc88ff44
+SCROLL_BAR_COLOR             = 0x77ffffff
+SCROLL_BAR_BG_COLOR          = 0x22ffffff
+MARKED_COLOR                 = 0x1affffff
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0x88ffeecc
+CONTEXT_MENU_FOCUS_COLOR     = 0xff00ddff
+CONTEXT_MENU_COLOR           = 0x00000000
+CONTEXT_MENU_MORE_COLOR      = 0x00000000
+INVISIBLE_COLOR              = 0x44cccccc
+
+# Dialog colors
+DIALOG_COLOR                 = 0xffffffff
+DIALOG_BG_COLOR              = 0x00000000
+PROGRESS_BAR_COLOR           = 0xff00ddff
+PROGRESS_BAR_BG_COLOR        = 0x1affffff
+
+# Hex editor colors
+HEX_COLOR                    = 0x88ffeecc
+HEX_OFFSET_COLOR             = 0xffffb43f
+HEX_NIBBLE_COLOR             = 0xffffffff
+
+# Text editor colors
+TEXT_COLOR                   = 0x88ffeecc
+TEXT_FOCUS_COLOR             = 0xff00ddff
+TEXT_LINE_NUMBER_COLOR       = 0x7700ff90
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xff00ff90
+TEXT_HIGHLIGHT_COLOR         = 0x1affffff
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0xffffffff
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xff00ddff
+AUDIO_INFO                   = 0xffffffff
+AUDIO_SPEED                  = 0xffffffff
+AUDIO_TIME_CURRENT           = 0xff00ddff
+AUDIO_TIME_SLASH             = 0xffffffff
+AUDIO_TIME_TOTAL             = 0xffffffff
+AUDIO_TIME_BAR               = 0x77ffffff
+AUDIO_TIME_BAR_BG            = 0x22ffffff
