@@ -1,0 +1,83 @@
+﻿# VitaShell language file
+
+# General strings
+ERROR                                = "এরর 0x%08X."
+OK                                   = "ঠিক আছে"
+YES                                  = "হাঁ"
+NO                                   = "না"
+CANCEL                               = "বাতিল"
+FOLDER                               = "ফোল্ডার"
+
+# Progress strings
+MOVING                               = "মুভ করা হচ্ছে..."
+COPYING                              = "কপ্যিং করা হচ্ছে..."
+DELETING                             = "মুছে দেওয়া হচ্ছে..."
+EXPORTING                            = "এক্সপোর্ট করা হচ্ছে..."
+INSTALLING                           = "ইনস্টল করা হচ্ছে..."
+DOWNLOADING                          = "ডাউনলোড করা হচ্ছে..."
+EXTRACTING                           = "ফাইল বার করা হচ্ছে..."
+HASHING                              = "হাসিং করা হচ্ছে..."
+
+# Audio player strings
+TITLE                                = "শিরনাম"
+ALBUM                                = "অ্যালবাম"
+ARTIST                               = "শিল্পী"
+GENRE                                = "প্রকার"
+YEAR                                 = "সন"
+
+# Hex editor strings
+OFFSET                               = "অফসেট"
+OPEN_HEX_EDITOR                      = "হেক্স এডিটর খুলন"
+
+# Text editor strings
+EDIT_LINE                            = "লাইন টা সম্পাদন করুন"
+ENTER_SEARCH_TERM                    = "অনুসন্ধান করুন"
+CUT                                  = "কাট করুন"
+INSERT_EMPTY_LINE                    = "খালি লাইন ঢুকান"
+
+# File browser context menu strings
+MORE                                 = "আরো"
+MARK_ALL                             = "সব চিহিন্নিত করুন"
+UNMARK_ALL                           = "সব অচিহ্নিত করুন"
+MOVE                                 = "মুভ"
+COPY                                 = "কপি"
+PASTE                                = "পেস্ট"
+DELETE                               = "বাতিল"
+RENAME                               = "নতুন নাম দিন"
+NEW_FOLDER                           = "নতুন ফোল্ডার"
+INSTALL_ALL                          = "সব ইনস্টল করুন"
+CALCULATE_SHA1                       = "SHA1 ক্যালকুলেট করুন"
+EXPORT_MEDIA                         = "মিডিয়া এক্সপোর্ট করুন"
+SEARCH                               = "অনুসন্ধান করুন"
+
+# File browser strings
+COPIED_FILE                          = "%d ফাইল কপি করা হইছে"
+COPIED_FOLDER                        = "%d ফোল্ডার কপি করা হইছে"
+COPIED_FILES_FOLDERS                 = "%d ফাইল এবং ফোল্ডার কপি করা হইছে"
+
+# Dialog questions
+DELETE_FILE_QUESTION                 = "আপনি কি নিশ্চিত এই ফাইল মুছে দিতে চান?"
+DELETE_FOLDER_QUESTION               = "আপনি কি নিশ্চিত এই ফোল্ডার মুছে দিতে চান?"
+DELETE_FILES_FOLDERS_QUESTION        = "আপনি কি নিশ্চিত এই ফাইল এবং ফোল্ডার মুছে দিতে চান?"
+EXPORT_FILE_QUESTION                 = "আপনি কি এই ফাইল এক্সপোর্ট করতে চান?"
+EXPORT_FOLDER_QUESTION               = "আপনি কি এই ফোল্ডার এক্সপোর্ট করতে চান?"
+EXPORT_FILES_FOLDERS_QUESTION        = "আপনি কি এই ফাইল এবং ফোল্ডার এক্সপোর্ট করতে চান?"
+EXPORT_NO_MEDIA                      = "কোনো মিডিয়া ফাইল নাই এক্সপোর্ট করার জন্য"
+EXPORT_SONGS_INFO                    = "%d গান অথবা গানগুলো এক্সপোর্ট করা হইছে"
+EXPORT_PICTURES_INFO                 = "%d ছবি অথবা ছবিগুলো এক্সপোর্ট করা হইছে"
+EXPORT_SONGS_PICTURES_INFO           = "%d গান এবং %d ছবি এক্সপোর্ট করা হইছে"
+INSTALL_ALL_QUESTION                 = "আপনি কি সবকিছু ইনস্টল করতে চান এই প্যাকেজ এর?"
+INSTALL_QUESTION                     = "আপনি কি এই প্যাকেজ ইনস্টল করতে চান?"
+INSTALL_WARNING                      = "এই প্যাকেজ আপনার সম্প্রসারিত অনুমতি চায়\এই প্যাকেজ আপনার বাক্তিগত তথ্য নিবে\আপনি যদি এই প্যাকেজটি বিশ্বস্ত সাইট থেকে ডাউনলোড করিননি,\সাবধানতার সাথে এগিয়ে ইনস্টল করুন দয়া করে\\আপনি কি তাও ইনস্টল করবেন?"
+HASH_FILE_QUESTION                   = "SHA1 হাসিন অনেক সময় লাগতে পারে, তাও করবেন?"
+
+# Others
+PLEASE_WAIT                          = "অনুগ্রহকরে অপেক্ষা করুন..."
+SAVE_MODIFICATIONS                   = "আপনি কি আপনার সম্পাদনা রাকতে চান?"
+NO_SPACE_ERROR                       = "আপনার মেমরি কার্ড এ বেশি জায়গা নেই\%s আরো জায়গা লাগবে"
+WIFI_ERROR                           = "আপনার Wi-Fi লাগবে এটা করতে"
+FTP_SERVER                           = "FTP server চলতাছে\ftp://%s:%i\\টিপুন 'ঠিক আছে' এটা ব্যাকগ্রাউন্ড চালাতে\টিপুন 'বাতিল' FTP Server বন্ধ করার জন্য"
+SYS_INFO                             = "সিস্টেম সফটওয়্যার: %s\মডেল: 0x%08X\MAC ঠিকানা: %s\আইপি এড্রেস: %s\মেমরি কার্ড এর জায়গা: %s/%s\ব্যাটারী আছে: %d%%"
+UPDATE_QUESTION                      = "VitaShell %s ডাউনলোড করার জন্য রেডি\\আপনি কি আপডেট করতে চান?"
+TOOLBOX                              = "টুলবাক্স"
+SYSINFO_TITLE                        = "সিস্টেম তথ্য"
