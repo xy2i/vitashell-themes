@@ -1,5 +1,5 @@
 ﻿# VitaShell french translation by xy2_ 
-# Updated by Dragoon1010 (For VitaShell 1.1)
+# Updated by Dragoon1010 (For VitaShell 1.3)
 
 # General strings
 
@@ -19,13 +19,14 @@ EXPORTING			= "Exportation en cours..."
 INSTALLING			= "Installation en cours..."
 DOWNLOADING			= "Téléchargement en cours..."
 EXTRACTING			= "Extraction en cours..."
+COMPRESSING			= "Compression en cours..."
 HASHING				= "Hashage en cours..."
 
 # Audio player strings
 
 TITLE				= "Titre"
 ALBUM				= "Album"
-ARTIS				= "Artiste"
+ARTIST				= "Artiste"
 GENRE				= "Genre"
 YEAR				= "Année"
 
@@ -51,10 +52,12 @@ COPY				= "Copier"
 PASTE				= "Coller"
 DELETE				= "Supprimer"
 RENAME				= "Renommer"
+COMPRESS			= "Compresser"
 NEW_FOLDER			= "Nouveau dossier"
 INSTALL_ALL			= "Installer tout"
+INSTALL_FOLDER			= "Installer le dossier"
 CALCULATE_SHA1			= "Vérifier le SHA1"
-EXPORT_MEDIA			= "Exporter vers un périphérique"
+EXPORT_MEDIA			= "Exporter vers média PsVita"
 SEARCH				= "Rechercher"
 
 # File browser strings
@@ -68,14 +71,15 @@ COPIED_FILES_FOLDERS		= "Copie de %d fichiers/dossiers."
 DELETE_FILE_QUESTION		= "Voulez-vous vraiment supprimer ce fichier ?"
 DELETE_FOLDER_QUESTION		= "Voulez-vous vraiment supprimer ce dossier ?"
 DELETE_FILES_FOLDERS_QUESTION	= "Voulez-vous vraiment supprimer ces fichiers/dossiers ?"
-EXPORT_FILE_QUESTION		= "Voulez-vous exporter ce fichier vers un périphérique ?"
-EXPORT_FOLDER_QUESTION		= "Voulez-vous exporter ce dossier vers un périphérique ?"
-EXPORT_FILES_FOLDERS_QUESTION	= "Voulez-vous exporter ces fichiers/dossiers vers un périphérique ?"
+EXPORT_FILE_QUESTION		= "Voulez-vous exporter ce fichier vers la médiathèque PsVita ?"
+EXPORT_FOLDER_QUESTION		= "Voulez-vous exporter ce dossier vers la médiathèque PsVita ?"
+EXPORT_FILES_FOLDERS_QUESTION	= "Voulez-vous exporter ces fichiers/dossiers vers la médiathèque PsVita ?"
 EXPORT_NO_MEDIA			= "Aucun fichier multimédia disponible pour l'exportation."
 EXPORT_SONGS_INFO		= "%d musique(s) exportée(s)."
 EXPORT_PICTURES_INFO		= "%d image(s) exportée(s)."
 EXPORT_SONGS_PICTURES_INFO	= "%d musique(s) et %d image(s) exportée(s)."
-INSTALL_ALL_QUESTION		= "Voulez-vous vraiment installer tout les packages disponible dans ce dossier ?"
+INSTALL_ALL_QUESTION		= "Voulez-vous vraiment installer  tout les packages disponible dans ce dossier ?"
+INSTALL_FOLDER_QUESTION		= "Voulez-vous vraiment installer ce dossier ?\Attention : cette actionva supprimer le dossier après l'installation !"
 INSTALL_QUESTION		= "Voulez-vous vraiment installer cette archive ?"
 INSTALL_WARNING			= "Cette application requiert des autorisations supplémentaires.\Elle pourrais avoir accès à vos informations personnelles.\Si vous ne l'avez pas obtenu de source sûr,\procédez avec précautions.\\Voulez vous tout de même l'installer ?"
 HASH_FILE_QUESTION		= "Le hashage SHA1 peut prendre un certain temps. Voulez vous continuer ?"
@@ -87,6 +91,7 @@ SAVE_MODIFICATIONS		= "Voulez vous sauvegarder les modifications ?"
 NO_SPACE_ERROR			= "Il n'y a plus d'espace libre sur la carte mémoire\mémoire interne.\%s supplémentaires sont nécessaires."
 WIFI_ERROR			= "Vous devez activer le Wi-Fi pour utiliser cette fonction."
 FTP_SERVER			= "Serveur FTP actif à l'adresse \ftp://%s:%i\\Appuyez sur 'OK' pour garder en tâche de fond.\Appuyez sur 'Annuler' pour l'arrêter."
-SYS_INFO			= "Logiciel système : %s\Modèle : 0x%08X\addresse MAC : %s\addresse IP : %s\Mémoire restante : %s/%s"
+SYS_INFO			= "Logiciel système : %s\Modèle : 0x%08X\addresse MAC : %s\addresse IP : %s\Mémoire restante : %s/%s\Batteire restante: %d%%"
 UPDATE_QUESTION			= "Une nouvelle version de VitaShell est disponible.\\Voulez vous mettre à jour en version %s ?"
-
+TOOLBOX				= "Boite à outils"
+SYSINFO_TITLE			= "Informations système"
