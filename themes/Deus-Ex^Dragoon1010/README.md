@@ -1,4 +1,4 @@
-# Deus-Ex by Dragoon1010 (for VitaShell v1.00)
+# Deus-Ex by Dragoon1010 (for VitaShell v1.5)
 
 For English version, juste take "bg_XXX-EN.PNG" and rename in "bg_XXX.PNG"
 
