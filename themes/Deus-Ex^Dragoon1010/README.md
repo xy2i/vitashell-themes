@@ -7,7 +7,7 @@ For English version, juste take "bg_XXX-EN.PNG" and rename in "bg_XXX.PNG"
 
 ## Preview :
 
-![preview2.png](https://github.com/Dragoon1010/vitashell-themes/blob/master/themes/Deus-Ex%5EDragoon1010/preview2.jpg)
-![preview3.png](https://github.com/Dragoon1010/vitashell-themes/blob/master/themes/Deus-Ex%5EDragoon1010/preview3.jpg)
-![preview1.png](https://github.com/Dragoon1010/vitashell-themes/blob/master/themes/Deus-Ex%5EDragoon1010/preview1.jpg)
+![preview2.png](https://github.com/xy2iii/vitashell-themes/blob/master/themes/Deus-Ex%5EDragoon1010/preview2.jpg)
+![preview3.png](https://github.com/xy2iii/vitashell-themes/blob/master/themes/Deus-Ex%5EDragoon1010/preview3.jpg)
+![preview1.png](https://github.com/xy2iii/vitashell-themes/blob/master/themes/Deus-Ex%5EDragoon1010/preview1.jpg)
 
