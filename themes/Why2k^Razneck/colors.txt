@@ -6,6 +6,13 @@ TITLE_COLOR                  = 0xFF000000
 PATH_COLOR                   = 0xFF000000
 DATE_TIME_COLOR              = 0xFFFFFFFF
 
+# Settings colors
+SETTINGS_MENU_COLOR          = 0xFFAE2A00
+SETTINGS_MENU_FOCUS_COLOR    = 0xFFB6B6B6
+SETTINGS_MENU_TITLE_COLOR    = 0xFFB6B6B6
+SETTINGS_MENU_ITEM_COLOR     = 0xFFFFFFFF
+SETTINGS_MENU_OPTION_COLOR   = 0xFF808080
+
 # File browser colors
 FOCUS_COLOR                  = 0xCCFF0000
 FILE_COLOR                   = 0xFF000000
@@ -45,3 +52,19 @@ TEXT_HIGHLIGHT_COLOR         = 0x4F6A240A
 
 # Photo viewer colors
 PHOTO_ZOOM_COLOR             = 0xFFFFFFFF
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xFFFFFFFF
+AUDIO_INFO                   = 0xFFFFFFFF
+AUDIO_SPEED                  = 0xFFFFFFFF
+AUDIO_TIME_CURRENT           = 0xFFFFFFFF
+AUDIO_TIME_SLASH             = 0xFFFFFFFF
+AUDIO_TIME_TOTAL             = 0xFFFFFFFF
+AUDIO_TIME_BAR               = 0xFF808080
+AUDIO_TIME_BAR_BG            = 0xFFFFFFFF
+
+# UI2 colors
+ITEM_BORDER                  = 0xDDDDDDDD   # Gray
+ITEM_BORDER_SELECT           = 0xFF00FF00   # Green
+BACKGROUND_COLOR_TEXT_ITEM   = 0xFFFFFFFF   # White
+ALPHA_TITLEBAR               = 0xB4         # 180      
