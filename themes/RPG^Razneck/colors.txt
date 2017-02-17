@@ -1,0 +1,47 @@
+# VitaShell colors file
+# RPG
+# Shell colors
+BACKGROUND_COLOR             = 0x00000000
+TITLE_COLOR                  = 0xFF00AAFF
+PATH_COLOR                   = 0xFFA6F0FF
+DATE_TIME_COLOR              = 0xFF00AAFF
+
+# File browser colors
+FOCUS_COLOR                  = 0xFF00AAFF
+FILE_COLOR                   = 0xFFFFFFFF
+SFO_COLOR                    = 0xFFFFFFFF
+TXT_COLOR                    = 0xFFFFFFFF
+FOLDER_COLOR                 = 0xFFA6F0FF
+IMAGE_COLOR                  = 0xFFFFFFFF
+ARCHIVE_COLOR                = 0xFF2ED9F8
+SCROLL_BAR_COLOR             = 0x8A0092F3
+SCROLL_BAR_BG_COLOR          = 0x00000000
+MARKED_COLOR                 = 0x26FFFFFF
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xFFFFFFFF
+CONTEXT_MENU_FOCUS_COLOR     = 0xFF00AAFF
+CONTEXT_MENU_COLOR           = 0x00000000
+CONTEXT_MENU_MORE_COLOR      = 0x00000000
+INVISIBLE_COLOR              = 0x2F000000
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFFFFFFFF
+DIALOG_BG_COLOR              = 0x00000000
+PROGRESS_BAR_COLOR           = 0xFF00AAFF
+PROGRESS_BAR_BG_COLOR        = 0x2022517F
+
+# Hex editor colors
+HEX_COLOR                    = 0xFFFFFFFF
+HEX_OFFSET_COLOR             = 0xDD00AAFF
+HEX_NIBBLE_COLOR             = 0xFF0000FF
+
+# Text editor colors
+TEXT_COLOR                   = 0xFFFFFFFF
+TEXT_FOCUS_COLOR             = 0xFF00AAFF
+TEXT_LINE_NUMBER_COLOR       = 0xDD00AAFF
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFFFFFFFF
+TEXT_HIGHLIGHT_COLOR         = 0x26FFFFFF
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0x00000000
