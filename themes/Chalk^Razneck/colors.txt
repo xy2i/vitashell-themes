@@ -1,0 +1,70 @@
+# VitaShell colors file
+# Chalk
+# Shell colors
+BACKGROUND_COLOR             = 0x00000000
+TITLE_COLOR                  = 0xFFFDBD12
+PATH_COLOR                   = 0xFFFFFFFF
+DATE_TIME_COLOR              = 0xFFFDBD12
+
+# Settings colors
+SETTINGS_MENU_COLOR          = 0xE03D513C
+SETTINGS_MENU_FOCUS_COLOR    = 0x1BFFFFFF
+SETTINGS_MENU_TITLE_COLOR    = 0xFFFDBD12
+SETTINGS_MENU_ITEM_COLOR     = 0xFF6CE0FD
+SETTINGS_MENU_OPTION_COLOR   = 0xFF5454F8
+
+# File browser colors
+FOCUS_COLOR                  = 0xFF5454F8
+FILE_COLOR                   = 0xFFFFFFFF
+SFO_COLOR                    = 0xFFFF6CB5
+TXT_COLOR                    = 0xFFBAFF42
+FOLDER_COLOR                 = 0xFFFFFFFF
+IMAGE_COLOR                  = 0xFF33A0F4
+ARCHIVE_COLOR                = 0xFF2ED9F8
+SCROLL_BAR_COLOR             = 0x00000000
+SCROLL_BAR_BG_COLOR          = 0x00000000
+MARKED_COLOR                 = 0x1BFFFFFF
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xFFFF6000
+CONTEXT_MENU_FOCUS_COLOR     = 0xFF2718E6
+CONTEXT_MENU_COLOR           = 0x00000000
+CONTEXT_MENU_MORE_COLOR      = 0x00000000
+INVISIBLE_COLOR              = 0xFF696969
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFF2ED9F8
+DIALOG_BG_COLOR              = 0x00000000
+PROGRESS_BAR_COLOR           = 0xFF5454F8
+PROGRESS_BAR_BG_COLOR        = 0x00000000
+
+# Hex editor colors
+HEX_COLOR                    = 0xFFFFFFFF
+HEX_OFFSET_COLOR             = 0xFF33A0F4
+HEX_NIBBLE_COLOR             = 0xFFFDBD12
+
+# Text editor colors
+TEXT_COLOR                   = 0xFFFFFFFF
+TEXT_FOCUS_COLOR             = 0xFFFCC92C
+TEXT_LINE_NUMBER_COLOR       = 0xFF33A0F4
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFFFCC92C
+TEXT_HIGHLIGHT_COLOR         = 0x1BFFFFFF
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0x00000000
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xFF33A0F4
+AUDIO_INFO                   = 0xFFBAFF42
+AUDIO_SPEED                  = 0xFFFF6CB5
+AUDIO_TIME_CURRENT           = 0xFFFFFFFF
+AUDIO_TIME_SLASH             = 0xFFFCC92C
+AUDIO_TIME_TOTAL             = 0xFF2ED9F8
+AUDIO_TIME_BAR               = 0xFF5454F8
+AUDIO_TIME_BAR_BG            = 0x00000000
+
+# UI2 colors
+ITEM_BORDER                  = 0xDDDDDDDD   # Gray
+ITEM_BORDER_SELECT           = 0xFF00FF00   # Green
+BACKGROUND_COLOR_TEXT_ITEM   = 0xFFFFFFFF   # White
+ALPHA_TITLEBAR               = 0xB4         # 180      
