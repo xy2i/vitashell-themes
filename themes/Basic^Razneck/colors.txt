@@ -1,0 +1,64 @@
+# VitaShell colors file
+# Basic
+# Shell colors
+BACKGROUND_COLOR             = 0x00000000
+TITLE_COLOR                  = 0xFF9E9E9F
+PATH_COLOR                   = 0xA09E9E9F
+DATE_TIME_COLOR              = 0xFF9E9E9F
+
+# Settings colors
+SETTINGS_MENU_COLOR          = 0xFF202020
+SETTINGS_MENU_FOCUS_COLOR    = 0x809E9E9F
+SETTINGS_MENU_TITLE_COLOR    = 0xA09E9E9F
+SETTINGS_MENU_ITEM_COLOR     = 0xFF414141
+SETTINGS_MENU_OPTION_COLOR   = 0xFF9E9E9F
+
+# File browser colors
+FOCUS_COLOR                  = 0xFFEFEFEF
+FILE_COLOR                   = 0xFF9E9E9F
+SFO_COLOR                    = 0xFF9E9E9F
+TXT_COLOR                    = 0xFF9E9E9F
+FOLDER_COLOR                 = 0xFF9E9E9F
+IMAGE_COLOR                  = 0xFF9E9E9F
+ARCHIVE_COLOR                = 0xFF9E9E9F
+SCROLL_BAR_COLOR             = 0xFF363636
+SCROLL_BAR_BG_COLOR          = 0x00000000
+MARKED_COLOR                 = 0x2A9E9E9F
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xA09E9E9F
+CONTEXT_MENU_FOCUS_COLOR     = 0xFFEFEFEF
+CONTEXT_MENU_COLOR           = 0x00000000
+CONTEXT_MENU_MORE_COLOR      = 0xFF414141
+INVISIBLE_COLOR              = 0xFF363636
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFF9E9E9F
+DIALOG_BG_COLOR              = 0xFF202020
+PROGRESS_BAR_COLOR           = 0xFF9E9E9F
+PROGRESS_BAR_BG_COLOR        = 0xFF363636
+
+# Hex editor colors
+HEX_COLOR                    = 0xFF9E9E9F
+HEX_OFFSET_COLOR             = 0x449E9E9F
+HEX_NIBBLE_COLOR             = 0xFF0000FF
+
+# Text editor colors
+TEXT_COLOR                   = 0xFF9E9E9F
+TEXT_FOCUS_COLOR             = 0xFFEFEFEF
+TEXT_LINE_NUMBER_COLOR       = 0x449E9E9F
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0x44EAEAEA
+TEXT_HIGHLIGHT_COLOR         = 0x2A9E9E9F
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0x00000000
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xFF414141
+AUDIO_INFO                   = 0xFF9E9E9F
+AUDIO_SPEED                  = 0xFF9E9E9F
+AUDIO_TIME_CURRENT           = 0xFF9E9E9F
+AUDIO_TIME_SLASH             = 0xFF414141
+AUDIO_TIME_TOTAL             = 0xFF9E9E9F
+AUDIO_TIME_BAR               = 0xFF9E9E9F
+AUDIO_TIME_BAR_BG            = 0xFF414141
