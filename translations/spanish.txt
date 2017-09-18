@@ -123,7 +123,7 @@ INSTALL_WARNING                      = ""Este fichero requiere de permisos espec
 INSTALL_BRICK_WARNING                = "Este fichero usa funciones que remontan\particiones y puede dañar gravemente tu dispositivo.\Si no lo has obtenido en un sitio seguro,\por favor, procede con cuidado.\\¿Quieres continuar con la instalación?"
 HASH_FILE_QUESTION                   = "Realizar la operación para el hashing SHA1 puede llevar tiempo. ¿Quieres continuar?"
 SAVE_MODIFICATIONS                   = "¿Quieres guardar tus modificaciones?"
-REFRESH_LIVEAREA_QUESTION            = "Refrescar LiveArea puede llevar tiempo. ¿Quieres continuar?
+REFRESH_LIVEAREA_QUESTION            = "Refrescar LiveArea puede llevar tiempo. ¿Quieres continuar?"
 
 # HENkaku settings strings - Carácteres de las opciones de HENkaku
 HENKAKU_SETTINGS                     = "Opciones de HENkaku."
