@@ -1,4 +1,4 @@
-# VitaShell spanish translation by Shadyck, Darkmet98 and Keizel. Por favor, evitad el uso del español latino, esta traducción debe ser a gusto de todos.
+# VitaShell spanish translation by Shadyck, Darkmet98, Keizel and NikowFreak. Por favor, evitad el uso del español latino, esta traducción debe ser a gusto de todos.
 
 # General strings - Carácteres generales
 ERROR                                = "Error 0x%08X."
