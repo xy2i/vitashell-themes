@@ -1,0 +1,139 @@
+# VitaShell language file
+
+# General strings
+ERROR                                = "الخطأ 0x%08X."
+OK                                   = "نعم"
+YES                                  = "أجل"
+NO                                   = "لا"
+CANCEL                               = "إلغاء"
+ON                                   = "قيد التشغيل"
+OFF                                  = "إيقاف التشغيل"
+FILE_                                = "ملف"
+FOLDER                               = "مجلد"
+
+# Progress strings
+MOVING                               = "جاري النقل..."
+COPYING                              = "جاري النسخ..."
+DELETING                             = "جاري الحذف..."
+EXPORTING                            = "جاري التصدير..."
+INSTALLING                           = "جاري التنصيب..."
+DOWNLOADING                          = "جاري التحميل..."
+EXTRACTING                           = "جاري الاستخراج..."
+COMPRESSING                          = "جاري ضغط الملف..."
+HASHING                              = "جاري التشويش..."
+
+# Audio player strings
+TITLE                                = "العنوان"
+ALBUM                                = "الأبلوم"
+ARTIST                               = "الفنان"
+GENRE                                = "النوع"
+YEAR                                 = "السنة"
+
+# Hex editor strings
+OFFSET                               = "موازن"
+OPEN_HEX_EDITOR                      = "فتح محرر الـ Hex"
+
+# Text editor strings
+EDIT_LINE                            = "تحرير الخط"
+ENTER_SEARCH_TERM                    = "أدخل مصطلح البحث"
+CUT                                  = "القص"
+INSERT_EMPTY_LINE                    = "أدخل سطرًا فارغًا"
+
+# File browser context menu strings
+MORE                                 = "نقل"
+MARK_ALL                             = "تحديد الكل
+UNMARK_ALL                           = "لا تحديد للكل"
+MOVE                                 = "نقل"
+COPY                                 = "نسخ"
+PASTE                                = "لصق"
+DELETE                               = "حذف"
+RENAME                               = "إعادة التسمية"
+NEW_FOLDER                           = "محلد جديد"
+PROPERTIES                           = "خصائص"
+COMPRESS                             = "ضغط"
+INSTALL_ALL                          = "تصنيب الكل"
+INSTALL_FOLDER                       = "تصنيب المجلد"
+CALCULATE_SHA1                       = "لحسب SHA1"
+EXPORT_MEDIA                         = "تصدير الوسائط"
+SEARCH                               = "البحث"
+
+# File browser properties strings
+PROPERTY_NAME                        = "الاسم"
+PROPERTY_TYPE                        = "النوع"
+PROPERTY_FSELF_MODE                  = "مود FSELF"
+PROPERTY_SIZE                        = "الحجم"
+PROPERTY_COMPRESSED_SIZE           	 = "الحجم المضغوط"
+PROPERTY_CONTAINS                    = "Contains"
+PROPERTY_CONTAINS_FILES_FOLDERS      = "%d الملفات, %d المجلدات"
+PROPERTY_CREATION_DATE               = "تاريخ الإنشاء"
+PROPERTY_MODFICATION_DATE            = "تاريخ التغيير"
+PROPERTY_TYPE_BMP                    = "صورة Bitmap"
+PROPERTY_TYPE_INI                    = "ملف الضبط"
+PROPERTY_TYPE_JPEG                   = "JPEG صورة"
+PROPERTY_TYPE_MP3                    = "MP3 ملف صوت"
+PROPERTY_TYPE_OGG                    = "OGG ملف صوت"
+PROPERTY_TYPE_PNG                    = "PNG صورة"
+PROPERTY_TYPE_SFO                    = "SFO ملف"
+PROPERTY_TYPE_TXT                    = "وثيقة نصيةt"
+PROPERTY_TYPE_VPK                    = "VPK حزمة"
+PROPERTY_TYPE_XML                    = "XML كلف"
+PROPERTY_TYPE_ZIP                    = "ZIP أرشيف"
+PROPERTY_TYPE_FSELF                  = "FSELF ملف"
+PROPERTY_FSELF_MODE_SAFE             = "آمن"
+PROPERTY_FSELF_MODE_UNSAFE           = "غير آمن"
+PROPERTY_FSELF_MODE_SCE              = "وقعت الهيئة"
+
+# File browser strings
+COPIED_FILE                          = "تم نسخ %d ملف(ات)."
+COPIED_FOLDER                        = "تم نسخ %d مجلد(ات)."
+COPIED_FILES_FOLDERS                 = "تم نسخ %d ملف(ات)/مجلد(ات)."
+
+# Dialog questions
+DELETE_FILE_QUESTION                 = "هل أنت متأكد أنك تريد حذف هذا الملف؟"
+DELETE_FOLDER_QUESTION               = "هل أنت متأكد أنك تريد حذف هذا المجلد؟"
+DELETE_FILES_FOLDERS_QUESTION        = "هل أنت متأكد أنك تريد حذف هذه الملفات/المجلدات؟"
+EXPORT_FILE_QUESTION                 = "هل تريد تصدير هذا الملف إلى الوسائط؟"
+EXPORT_FOLDER_QUESTION               = "هل تريد تصدير هذا المجلد إلى الوسائط؟"
+EXPORT_FILES_FOLDERS_QUESTION        = "هل تريد تصدير هذه الملفات/المجلدات إلى الوسائط؟"
+EXPORT_NO_MEDIA                      = "لا توجد ملفات وسائط متاحة للتصدير."
+EXPORT_SONGS_INFO                    = "تم تصدير %d أغنية(أغنيات)."
+EXPORT_PICTURES_INFO                 = "تم تصدير %d صورة(صور)."
+EXPORT_SONGS_PICTURES_INFO           = "تم تصدير %d أغنية(أغنيات) و %d صورة(صور)."
+INSTALL_ALL_QUESTION                 = "هل تريد تثبيت كافة الحزم المتوفرة في هذا المجلد؟"
+INSTALL_FOLDER_QUESTION              = "هل تريد تثبيت هذا المجلد؟ \ تحذير: سيؤدي هذا الإجراء أيضًا إلى حذف \ المجلد بعد التثبيت!"
+INSTALL_QUESTION                     = "هل تريد تثبيت هذه الحزمة؟"
+INSTALL_WARNING                      = "تطلب هذه الحزمة أذونات موسعة. \ سيكون لديها حق الوصول إلى معلوماتك الشخصية. \ إذا لم تحصل عليها من مصدر موثوق، \ الرجاء المتابعة بناءً على تنبيهاتك الخاصة. \\ هل ترغب في متابعة التثبيت؟""
+INSTALL_BRICK_WARNING                = "تستخدم هذه الحزمة وظائف تعيد تثبيت \ أقسام ويمكن أن تحجب جهازك. \ إذا لم تحصل عليها من مصدر موثوق، \ يرجى المتابعة بناءً على تنبيهاتك الخاصة. \\ هل ترغب في متابعة التثبيت؟"
+HASH_FILE_QUESTION                   = "قد يستغرق تجزئة SHA1 وقتًا طويلًا. هل تريد أن تكمل؟"
+
+# HENkaku settings strings
+HENKAKU_SETTINGS                     = "إعدادات هينكاكو
+HENKAKU_ENABLE_PSN_SPOOFING          = "تفعيل انتحال شبكة بلايستيشن"
+HENKAKU_ENABLE_UNSAFE_HOMEBREW       = تفعيل البيرة المنزلية الغير الآمنة"
+HENKAKU_ENABLE_VERSION_SPOOFING      = "تفعيل النسخة المخادعة"
+HENKAKU_SPOOFED_VERSION              = "نسخة مخادعة"
+HENKAKU_RESTORE_DEFAULT_SETTINGS     = "استعادة الإعدادات الافتراضية"
+HENKAKU_UNSAFE_HOMEBREW_MESSAGE      = "يمكن أن تتسبب الأجهزة المنزلية غير الآمنة في إتلاف جهازك\بشكل دائم، في حالة إساءة استخدامها أو تكوينها بشكل خاطئ\أو ضار.\الرجاء توخي الحذر عند تثبيتها."
+
+# VitaShell settings
+VITASHELL_SETTINGS_MAIN              = "الإعدادات الرئيسية"
+VITASHELL_SETTINGS_LANGUAGE          = "اللغة"
+VITASHELL_SETTINGS_THEME             = "السمة"
+VITASHELL_SETTINGS_NO_AUTO_UPDATE    = "تعطيل التحديث التلقائي"
+VITASHELL_SETTINGS_POWER             = "الطاقة"
+VITASHELL_SETTINGS_REBOOT            = "إعادة التشغيل"
+VITASHELL_SETTINGS_POWEROFF          = "إيقاف التشغيل"
+VITASHELL_SETTINGS_STANDBY           = "تعليق"
+
+# Others
+PLEASE_WAIT                          = "ارجوك انتظر..."
+SAVE_MODIFICATIONS                   = "هل تريد حفظ تعديلاتك؟"
+NO_SPACE_ERROR                       = "لا توجد مساحة خالية كافية على \ بطاقة الذاكرة. \ مطلوب مساحة إضافية على الأقل%s."
+WIFI_ERROR                           = "يجب عليك استخدام Wi-Fi للقيام بذلك.
+FTP_SERVER                           = "خادم FTP يعمل الآن في\ftp://%s:%i\\اضغط على "موافق" لإبقائه في الخلفية.\اضغط على "إلغاء" لقطع الاتصال."
+SYS_INFO                             = "برنامج النظام: %s\Model: 0x%08X\عنوان ماك: %s\عنوان IP: %s\شريحة الذاكرة: %s/%s\مستوى البطارية: %d%%"
+UPDATE_QUESTION                      = "ڤيتا شيل %s متوفر الآن\\هل تريد تحديث التطبيق؟"
+TOOLBOX                              = "صندوق الأدوات"
+SYSINFO_TITLE                        = "معلومات النظام"
+ARCHIVE_NAME                         = "اسم الأرشيف"
+COMPRESSION_LEVEL                    = "مستوى الضغط (0-9)"
